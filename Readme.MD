@@ -1,1 +1,2 @@
-olá
+flowchart LR
+  A --> B
