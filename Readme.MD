@@ -37,7 +37,7 @@ Cadastro de Alunos
 # <p align="center">Diagrama de caso de uso</p>
 
 <p align="center">
-  <img src="dcs/DiagramaCasoDeUso.svg" alt="Diagrama de Caso de Uso" width="600"/>
+  <img src="docs/DiagramaCasoDeUso.svg" alt="Diagrama de Caso de Uso" width="600"/>
 </p>
 
 # <p align="center">Diagrama de classe</p>
