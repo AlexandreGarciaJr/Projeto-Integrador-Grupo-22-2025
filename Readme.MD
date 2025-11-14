@@ -9,6 +9,12 @@
 
 Este trabalho consiste no processo de modelagem de um sistema Orientado a Objetos, voltado a gestão de dados de uma grande universidade.
 
+Melhorar isso aqui, organizar informações
+Neste repositório contém os arquivos Front-End, SQL, imagens, primeira entrega e tals etc et c tec etc
+Na pasta docs contém as imagens do protótipo do sistema
+SQL com comandos DML e DDL para criação e manipulação do banco de dados
+Link para o Figma
+
 ---
 
 ## <p align="center">Diagrama de caso de uso</p>
