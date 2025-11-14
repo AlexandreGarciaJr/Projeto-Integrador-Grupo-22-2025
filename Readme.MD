@@ -74,4 +74,4 @@ class PessoaFisica
 - [Guilherme](https://github.com/gmcasagrande)
 - [Gustavo]
 - [Maycon]
-- [Pâmela]
+- [Pâmela](https://github.com/Pamelacimirro)
