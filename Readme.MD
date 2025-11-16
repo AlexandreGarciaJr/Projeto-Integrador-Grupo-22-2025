@@ -26,6 +26,8 @@ No repositório, você encontrará:
   <img src="docs/DiagramaCasoDeUso.svg" alt="Diagrama de Caso de Uso" width="600"/>
 </p>
 
+O sistema de cadastro descrito permite que o usuário registre diferentes perfis — Pessoa Física, Professor, Aluno, Pessoa Jurídica e Fornecedor — aplicando validações específicas de CPF ou CNPJ conforme o tipo escolhido; todos os cadastros são então salvos no banco de dados, e a partir desse ponto o sistema realiza duas ações complementares: envia um e-mail de confirmação ao usuário e comunica a instituição, garantindo tanto a persistência segura das informações quanto a integração administrativa.
+
 ---
 
 ## <p align="center">Diagrama de classe</p>
