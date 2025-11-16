@@ -104,8 +104,8 @@ class PessoaFisica
       </a>
       <br />
       </td>    <td align="center">
-      <a href="https://github.com/usuario2">
-        <img src="https://avatars.githubusercontent.com/u/4430740?v=4?s=100" width="100px;" alt=""/>
+      <a href="https://github.com/AlvesX25">
+        <img src="https://avatars.githubusercontent.com/u/143676167?v=4?s=100" width="100px;" alt=""/>
         <br />
         <span style="font-size:16px;"><b>Anderson</b></span>
       </a>
@@ -118,8 +118,8 @@ class PessoaFisica
       </a>
       <br />
     </td>    <td align="center">
-      <a href="https://github.com/usuario1">
-        <img src="https://avatars.githubusercontent.com/u/6946727?v=4?s=100" width="100px;" alt=""/>
+      <a href="https://github.com/gustvcarvalho">
+        <img src="https://avatars.githubusercontent.com/u/164582165?v=4?s=100" width="100px;" alt=""/>
         <br />
         <span style="font-size:16px;"><b>Gustavo</b></span>
       </a>
