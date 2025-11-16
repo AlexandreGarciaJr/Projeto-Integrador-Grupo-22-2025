@@ -77,6 +77,15 @@ classDiagram
     Fornecedor --|> PessoaJuridica
 class PessoaFisica
   direction RL
+
+O diagrama de classes descreve a estrutura de entidades e suas relações dentro de um sistema de cadastro. Ele define duas classes principais — Pessoa Física e Pessoa Jurídica — que representam os tipos básicos de usuários, cada uma com atributos próprios (como CPF, nome, e-mail, telefone e data de nascimento para Pessoa Física; ou CNPJ, razão social, e-mail, telefone e data de contrato para Pessoa Jurídica) e métodos de manipulação de dados, como cadastrar() e alterarDados(). 
+
+A partir dessas classes, derivam especializações: 
+- Aluno e Professor herdam de Pessoa Física, adicionando atributos específicos (curso, data de início, formação, disciplina) e métodos de cadastro próprios.
+- Fornecedor herda de Pessoa Jurídica, incluindo o atributo de produto e o método solicitarProduto().
+
+Assim, o modelo mostra como diferentes perfis de usuários compartilham características comuns de suas classes base, mas também possuem comportamentos especializados, garantindo reuso de código, organização e clareza na modelagem do sistema.
+
 ```
 
 ---
