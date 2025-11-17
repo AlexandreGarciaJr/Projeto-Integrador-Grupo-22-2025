@@ -7,16 +7,15 @@
 
 ---
 
-## 🖥️Sistema de Gestão Universitária
+## Sistema de Gestão Universitária
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como objetivo a modelagem de um sistema Orientado a Objetos voltado para a gestão de dados de uma grande universidade.  
 
-No repositório, você encontrará:🔎  
-- Arquivos Front-End utilizados na construção da interface do sistema  
-- Scripts SQL com comandos DML e DDL para criação e manipulação do banco de dados  
-- Imagens e recursos visuais utilizados no projeto  
-- Documentação detalhada com especificações dos casos de uso  
-- [Clique aqui](https://www.figma.com/proto/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=1-7&p=f&t=95RlP2G6VHUAIwWp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7) para testar o protótipo funcional.  
+No repositório, você encontrará:
+- Protótipo e interface criados na plataforma Figma;
+- Imagens e recursos visuais utilizados no projeto;
+- [Scripts SQL](docs/pi_ads.sql) com comandos DML e DDL para criação e manipulação do banco de dados;
+- [Documentação](PI - 1entrega.pdf) detalhada com especificações dos casos de uso;
 
 ---
 ## <p align="center">Diagrama de caso de uso</p>
@@ -106,6 +105,7 @@ Assim, o modelo mostra como diferentes perfis de usuários compartilham caracter
 
 <a href="https://www.figma.com/design/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=0-1&t=1auQyhuDTl0yMqdD-1">Link para o figma</a> com o projeto do protótipo
 
+[Clique aqui](https://www.figma.com/proto/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=1-7&p=f&t=95RlP2G6VHUAIwWp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7) para testar o protótipo funcional.
 
 ## Colaboradores
 <table>
