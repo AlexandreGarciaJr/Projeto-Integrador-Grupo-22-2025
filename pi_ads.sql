@@ -82,7 +82,8 @@ CREATE TABLE professor (
 CREATE TABLE fornecedor (
     id BIGINT PRIMARY KEY,
     produto_fornecido VARCHAR(120),
-    contato VARCHAR(100),
+    email VARCHAR(100) NOT NULL,
+	telefone VARCHAR(15),
     FOREIGN KEY (id) REFERENCES pessoa_juridica(id)
 );
 
