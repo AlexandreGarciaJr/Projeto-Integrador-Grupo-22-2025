@@ -16,8 +16,7 @@ No repositório, você encontrará:
 - Scripts SQL com comandos DML e DDL para criação e manipulação do banco de dados  
 - Imagens e recursos visuais utilizados no projeto  
 - Documentação detalhada com especificações dos casos de uso  
-- Protótipo funcional que demonstra o funcionamento do sistema  
-- [Link para o Figma](https://www.figma.com/proto/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=1-7&p=f&t=95RlP2G6VHUAIwWp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7) com a visualização do protótipo funcional.  
+- [Clique aqui](https://www.figma.com/proto/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=1-7&p=f&t=95RlP2G6VHUAIwWp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A7) para testar o protótipo funcional.  
 
 ---
 ## <p align="center">Diagrama de caso de uso</p>
@@ -89,7 +88,24 @@ A partir dessas classes, derivam especializações:
 Assim, o modelo mostra como diferentes perfis de usuários compartilham características comuns de suas classes base, mas também possuem comportamentos especializados, garantindo reuso de código, organização e clareza na modelagem do sistema.
 
 ---
-## 👥 Colaboradores
+
+<h2 align="center">Print do protótipo funcional</p>
+
+<p align="center">
+  <img src="./docs/00index.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  <img src="./docs/01pessoafisica.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  <img src="./docs/02pessoajuridica.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  </p><br><br/>
+  <p align="center">
+  <img src="./docs/03professor.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  <img src="./docs/04fornecedor.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  <img src="./docs/05aluno.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+</p>
+
+### [Link para o Figma](https://www.figma.com/design/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=0-1&t=1auQyhuDTl0yMqdD-1) com o projeto do protótipo funcional.
+
+
+## Colaboradores
 <table>
   <tr>
     <td align="center">
