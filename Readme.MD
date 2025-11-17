@@ -15,7 +15,7 @@ No repositório, você encontrará:
 - Protótipo e interface criados na plataforma Figma;
 - Imagens e recursos visuais utilizados no projeto;
 - [Scripts SQL](pi_ads.sql) com comandos DML e DDL para criação e manipulação do banco de dados;
-- [Documentação](PI - 1entrega.pdf) detalhada com especificações dos casos de uso;
+- [Documentação](https://github.com/AlexandreGarciaJr/Projeto-Integrador-Grupo-22-2025/blob/main/PI%20-%201entrega.pdf) detalhada com especificações dos casos de uso;
 
 ---
 ## <p align="center">Diagrama de caso de uso</p>
