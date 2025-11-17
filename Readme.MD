@@ -102,7 +102,9 @@ Assim, o modelo mostra como diferentes perfis de usuários compartilham caracter
   <img src="./docs/05aluno.jpg" alt="Diagrama de Caso de Uso" width="200"/>
 </p>
 
-### [Link para o Figma](https://www.figma.com/design/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=0-1&t=1auQyhuDTl0yMqdD-1) com o projeto do protótipo funcional.
+---
+
+<a href="https://www.figma.com/design/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=0-1&t=1auQyhuDTl0yMqdD-1">Link para o figma</a> com o projeto do protótipo
 
 
 ## Colaboradores
