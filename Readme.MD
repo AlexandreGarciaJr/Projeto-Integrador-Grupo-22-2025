@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como ob
 No repositório, você encontrará:
 - Protótipo e interface criados na plataforma Figma;
 - Imagens e recursos visuais utilizados no projeto;
-- [Scripts SQL](docs/pi_ads.sql) com comandos DML e DDL para criação e manipulação do banco de dados;
+- [Scripts SQL](pi_ads.sql) com comandos DML e DDL para criação e manipulação do banco de dados;
 - [Documentação](PI - 1entrega.pdf) detalhada com especificações dos casos de uso;
 
 ---
