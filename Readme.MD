@@ -1,17 +1,17 @@
 # <p align="center">Centro Universitário Senac</p>
 
 
-## <p align="center">Curso de Tecnologia em Análise e Desenvolvimento de Sistemas</p>
+## <p align="center">Curso de Tecnologia em Análise e Desenvolvimento de Sistemas👨‍💻</p>
 
 ### <p align="center">PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS</p>
 
 ---
 
-## Sistema de Gestão Universitária
+## 🖥️Sistema de Gestão Universitária
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como objetivo a modelagem de um sistema Orientado a Objetos voltado para a gestão de dados de uma grande universidade.  
 
-No repositório, você encontrará:  
+No repositório, você encontrará:🔎  
 - Arquivos Front-End utilizados na construção da interface do sistema  
 - Scripts SQL com comandos DML e DDL para criação e manipulação do banco de dados  
 - Imagens e recursos visuais utilizados no projeto  
