@@ -15,7 +15,6 @@ CREATE TABLE endereco (
     logradouro VARCHAR(100),
     numero VARCHAR(10),
     complemento VARCHAR(50), 
-    bairro VARCHAR(50),
     cidade VARCHAR(50),
     estado CHAR(2),
     cep VARCHAR(10)
