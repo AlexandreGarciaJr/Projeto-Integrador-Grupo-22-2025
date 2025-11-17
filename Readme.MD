@@ -17,7 +17,7 @@ No repositório, você encontrará:
 - Imagens e recursos visuais utilizados no projeto  
 - Documentação detalhada com especificações dos casos de uso  
 - Protótipo funcional que demonstra o funcionamento do sistema  
-- [Link para o Figma](https://www.figma.com) com os protótipos de interface  
+- [Link para o Figma](https://www.figma.com/design/LMhpXw9bbJf7Kk8JglNNBw/Projeto-Integrador---Segunda-entrega?node-id=0-1&t=1auQyhuDTl0yMqdD-1) com os protótipos de interface  
 
 ---
 ## <p align="center">Diagrama de caso de uso</p>
