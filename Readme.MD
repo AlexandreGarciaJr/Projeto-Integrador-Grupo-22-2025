@@ -1,7 +1,7 @@
 # <p align="center">Centro Universitário Senac</p>
 
 
-## <p align="center">Curso de Tecnologia em Análise e Desenvolvimento de Sistemas👨‍💻</p>
+## <p align="center">Curso de Tecnologia em Análise e Desenvolvimento de Sistemas</p>
 
 ### <p align="center">PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS</p>
 
