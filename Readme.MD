@@ -91,14 +91,15 @@ Assim, o modelo mostra como diferentes perfis de usuários compartilham caracter
 <h2 align="center">Print do protótipo funcional</p>
 
 <p align="center">
-  <img src="./docs/00index.jpg" alt="Diagrama de Caso de Uso" width="200"/>
-  <img src="./docs/01pessoafisica.jpg" alt="Diagrama de Caso de Uso" width="200"/>
-  <img src="./docs/02pessoajuridica.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  <img src="./docs/00index.jpg" alt="Diagrama de Caso de Uso" width="150"/>
+  <img src="./docs/01pessoafisica.jpg" alt="Diagrama de Caso de Uso" width="150"/>
+  <img src="./docs/02pessoajuridica.jpg" alt="Diagrama de Caso de Uso" width="150"/>
   </p><br><br/>
   <p align="center">
-  <img src="./docs/03professor.jpg" alt="Diagrama de Caso de Uso" width="200"/>
-  <img src="./docs/04fornecedor.jpg" alt="Diagrama de Caso de Uso" width="200"/>
-  <img src="./docs/05aluno.jpg" alt="Diagrama de Caso de Uso" width="200"/>
+  <img src="./docs/03professor.jpg" alt="Diagrama de Caso de Uso" width="150"/>
+  <img src="./docs/04fornecedor.jpg" alt="Diagrama de Caso de Uso" width="150"/>
+  <img src="./docs/05aluno.jpg" alt="Diagrama de Caso de Uso" width="150"/>
+  <img src="./docs/06endereco.jpg" alt="Diagrama de Caso de Uso" width="150"/>
 </p>
 
 ---
